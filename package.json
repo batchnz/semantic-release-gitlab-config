@@ -1,0 +1,22 @@
+{
+  "name": "@batchnz/semantic-release-gitlab-config",
+  "version": "1.0.0",
+  "description": "Batch's Semantic Release GitLab config",
+  "devDependencies": {
+    "semantic-release": "^17.0.0"
+  },
+  "main": "index.js",
+  "author": "Josh Smith <josh@batch.nz>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batchnz/semantic-release-gitlab-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/batchnz/semantic-release-gitlab-config/issues"
+  },
+  "homepage": "https://github.com/batchnz/semantic-release-gitlab-config#readme"
+}
