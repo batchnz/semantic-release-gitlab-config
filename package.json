@@ -1,5 +1,5 @@
 {
-  "name": "@batchnz/semantic-release-gitlab-config",
+  "name": "@batch/semantic-release-gitlab-config",
   "version": "1.0.0",
   "description": "Batch's Semantic Release GitLab config",
   "devDependencies": {

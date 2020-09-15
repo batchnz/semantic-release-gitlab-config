@@ -1,4 +1,4 @@
-# @batchnz/semantic-release-gitlab-config
+# @batch/semantic-release-gitlab-config
 
 ## Plugins
 
@@ -12,7 +12,7 @@ This shareable configuration use the following plugins:
 ## Install
 
 ```bash
-$ npm install --save-dev semantic-release @batchnz/semantic-release-gitlab-config
+$ npm install --save-dev semantic-release @batch/semantic-release-gitlab-config
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ The shareable config can be configured in the [**semantic-release** configuratio
 
 ```json
 {
-  "extends": "@batchnz/semantic-release-gitlab-config"
+  "extends": "@batch/semantic-release-gitlab-config"
 }
 ```
 
