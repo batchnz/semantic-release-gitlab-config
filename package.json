@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "Batch's Semantic Release GitLab config",
   "devDependencies": {
-    "semantic-release": "^17.0.0"
+    "semantic-release": "^20.1.0"
   },
   "main": "index.js",
   "author": "Josh Smith <josh@batch.nz>",
